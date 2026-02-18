@@ -1,4 +1,7 @@
 # design-academy-101
 
-Design Academy
-This is my first GitHub repo
+## Design Academy
+This is my experimental GitHub repo
+
+## About Me
+I'm a product designer
